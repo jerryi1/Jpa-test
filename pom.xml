@@ -79,6 +79,18 @@
             <version>1.16.16</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/com.voodoodyne.jackson.jsog/jackson-jsog -->
+        <dependency>
+            <groupId>com.voodoodyne.jackson.jsog</groupId>
+            <artifactId>jackson-jsog</artifactId>
+            <version>1.1.1</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/ch.mfrey.jackson/jackson-antpathfilter -->
+        <dependency>
+            <groupId>ch.mfrey.jackson</groupId>
+            <artifactId>jackson-antpathfilter</artifactId>
+            <version>1.0.2</version>
+        </dependency>
     </dependencies>
 
     <build>

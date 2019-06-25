@@ -26,7 +26,9 @@ spring:
 #      hibernate:
 #        show_sql: true
 #        format_sql: true
-
+  jpa:
+    hibernate:
+      ddl-auto: update
 logging:
   level:
     org.springframework:
